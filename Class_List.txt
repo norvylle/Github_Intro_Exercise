@@ -4,3 +4,4 @@ Section EF-2L
 Name				Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
+Norvylle Austin Uy			xxxx-02471
